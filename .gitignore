@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+*.spec
+android/.gradle/
+android/local.properties
+android/**/build/
